@@ -1,0 +1,19 @@
+[29-Sep-2021 15:27:38 UTC] PHP Warning:  require(db_connect.php): failed to open stream: No such file or directory in /home2/adhabeshacom/addiszare.tk/book/admin/login.php on line 6
+[29-Sep-2021 15:27:38 UTC] PHP Warning:  require(db_connect.php): failed to open stream: No such file or directory in /home2/adhabeshacom/addiszare.tk/book/admin/login.php on line 6
+[29-Sep-2021 15:27:38 UTC] PHP Fatal error:  require(): Failed opening required 'db_connect.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/adhabeshacom/addiszare.tk/book/admin/login.php on line 6
+[29-Sep-2021 15:29:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adhabeshacom/addiszare.tk/book/admin/includes/header.php:23) in /home2/adhabeshacom/addiszare.tk/book/admin/login.php on line 22
+[29-Sep-2021 15:30:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/adhabeshacom/addiszare.tk/book/admin/includes/header.php:23) in /home2/adhabeshacom/addiszare.tk/book/admin/login.php on line 4
+[29-Sep-2021 15:31:04 UTC] PHP Notice:  Undefined index: room_type in /home2/adhabeshacom/addiszare.tk/book/admin/room.php on line 14
+[29-Sep-2021 15:31:04 UTC] PHP Notice:  Undefined index: price in /home2/adhabeshacom/addiszare.tk/book/admin/room.php on line 15
+[29-Sep-2021 15:31:04 UTC] PHP Notice:  Undefined index: remain_rooms in /home2/adhabeshacom/addiszare.tk/book/admin/room.php on line 16
+[29-Sep-2021 15:31:04 UTC] PHP Notice:  Undefined index: no_of_beds in /home2/adhabeshacom/addiszare.tk/book/admin/room.php on line 17
+[29-Sep-2021 15:31:04 UTC] PHP Notice:  Undefined index: room_type in /home2/adhabeshacom/addiszare.tk/book/admin/room.php on line 14
+[29-Sep-2021 15:31:04 UTC] PHP Notice:  Undefined index: price in /home2/adhabeshacom/addiszare.tk/book/admin/room.php on line 15
+[29-Sep-2021 15:31:04 UTC] PHP Notice:  Undefined index: remain_rooms in /home2/adhabeshacom/addiszare.tk/book/admin/room.php on line 16
+[29-Sep-2021 15:31:04 UTC] PHP Notice:  Undefined index: no_of_beds in /home2/adhabeshacom/addiszare.tk/book/admin/room.php on line 17
+[01-Oct-2021 04:43:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/adhabeshacom/addiszare.tk/book/admin/manage.php on line 6
+[01-Oct-2021 04:43:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/adhabeshacom/addiszare.tk/book/admin/manage.php on line 6
+[01-Oct-2021 04:48:32 UTC] PHP Warning:  require(../includes/footer.php): failed to open stream: No such file or directory in /home2/adhabeshacom/addiszare.tk/book/admin/addroom.php on line 75
+[01-Oct-2021 04:48:32 UTC] PHP Warning:  require(../includes/footer.php): failed to open stream: No such file or directory in /home2/adhabeshacom/addiszare.tk/book/admin/addroom.php on line 75
+[01-Oct-2021 04:48:32 UTC] PHP Fatal error:  require(): Failed opening required '../includes/footer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/adhabeshacom/addiszare.tk/book/admin/addroom.php on line 75
+[01-Oct-2021 04:57:17 UTC] PHP Notice:  Undefined variable: price in /home2/adhabeshacom/addiszare.tk/book/admin/addroom.php on line 17
